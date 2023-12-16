@@ -1,3 +1,4 @@
+
 <section align="center">
 
 <h1 align="center">
@@ -5,7 +6,6 @@
 <strong> Hi! I'm <a href="https://fajardo-dev.netlify.app/">John Fajardo.</a></strong>
 </h1>
 
-<h1>About Me</h1>
 <h3>Programmer and Web Developer passionate about UI/UX design and open source development with more than 4 years of experience in the world of development and technology.</h3>
 
 <a href="https://fajardo-dev.netlify.app/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
@@ -13,10 +13,10 @@
 <a href="https://www.linkedin.com/in/johnfajardo06/">
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+
 <h1></h1>
 </section>
 
-<br>
 
 <section align="center">
 
@@ -79,7 +79,6 @@
 <h1></h1>
 
 </section>
-
 
 
 
