@@ -1,11 +1,6 @@
 
 <section align="center">
 
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif"         width="30px">
-<strong> Hi! I'm <a href="https://fajardo-dev.netlify.app/">John Fajardo.</a></strong>
-</h1>
-
 <h3>Programmer and Web Developer passionate about UI/UX design and open source development with more than 4 years of experience in the world of development and technology.</h3>
 
 <a href="https://fajardo-dev.netlify.app/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
