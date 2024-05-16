@@ -1,5 +1,6 @@
 
 <section align="center">
+![1715661363979](https://github.com/Fajardo-dev/Fajardo-dev/assets/62899394/ac00f96a-04e2-44a1-b4ff-a096037adfbf)
 
 <h3>Programmer and Web Developer passionate about UI/UX design and open source development with more than 4 years of experience in the world of development and technology.</h3>
 
