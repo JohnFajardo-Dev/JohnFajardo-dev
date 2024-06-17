@@ -9,11 +9,7 @@
 
 <h3>Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=react,npm,nodejs)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,npm,nodejs,mongodb,mysql,postgres)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,git,github,linux,arch,kali)](https://skillicons.dev)
 
