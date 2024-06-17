@@ -11,23 +11,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
 
-
-<h3>🧰 Frameworks and Libraries</h3>
-
 [![My Skills](https://skillicons.dev/icons?i=react,npm,nodejs)](https://skillicons.dev)
-
-
-<h3>🗄️ Databases and Cloud Hosting</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres )](https://skillicons.dev)
 
-
-<h3>💻 Software and Tools</h3>
-
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,git,github,linux,arch,kali)](https://skillicons.dev)
-
-
-<h3>🎨 Design</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,figma)](https://skillicons.dev)
 
